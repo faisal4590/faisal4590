@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faisal Ibn Aziz</h1>
 <h3 align="center">A PROFESSIONAL FULL-STACK SOFTWARE DEVELOPER with 4 years+ solid experience on structured web frameworks, system architecture design, custom API integration for multi-platform applications, design patterns and object-oriented software development.</h3>
 
-- 🔭 I’m currently working as **Senior Software Engineer in WPDeveloper**
+- 🔭 I’m currently working as **Senior Software Engineer in [xCloud Hosting,LLC](https://xcloud.host/)**
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
-- 💬 Ask me about **Laravel, PHP, Livewire, Vue JS**
+- 💬 Ask me about **Laravel, PHP, Livewire, Vue JS, Nginx, MySQL**
 
 - 📫 How to reach me **faisal4590ibnaziz@gmail.com**
 
