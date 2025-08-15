@@ -2,7 +2,7 @@
   
 # 👋 Hi there, I'm Faisal Ibn Aziz
 
-### 🚀 Senior Full-Stack Software Engineer|Laravel|Vue.js|Nginx
+### 🚀 Senior Full-Stack Software Engineer| System Architect | Laravel | Vue.js| Nginx
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=5%2B+Years+of+Experience;Laravel+%26+Vue.js+Expert;System+Architect;" alt="Typing SVG" />
 
