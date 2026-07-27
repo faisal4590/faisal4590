@@ -15,7 +15,7 @@
 ```typescript
 const faisal = {
     title: "Senior Software Engineer",
-    company: "xCloud Hosting, LLC",
+    company: "Awesome Motive Inc",
     location: "🌍 Remote",
     experience: "5+ years",
     specialties: [
@@ -26,14 +26,14 @@ const faisal = {
         "Object-Oriented Programming"
     ],
     currentFocus: ["React.js", "Node.js", "Microservices"],
-    askMeAbout: ["Laravel", "PHP", "Livewire", "Vue.js", "Nginx", "MySQL"]
+    askMeAbout: ["Laravel", "PHP", "Python", "LLM", "AI", "Nginx", "MySQL"]
 };
 ```
 ---
 
 ## 💼 Professional Experience
 
-- 🏢 **Senior Software Engineer** at [xCloud Hosting, LLC](https://xcloud.host/)
+- 🏢 **Software Developer** at [Awesome Motive Inc.](https://awesomemotive.com/)
 - 🎯 **5+ Years** of solid experience in structured web frameworks
 - 🏗️ **System Architecture Design** for scalable applications
 - 🔗 **Custom API Integration** for multi-platform solutions
