@@ -17,7 +17,7 @@ const faisal = {
     title: "Senior Software Engineer",
     company: "Awesome Motive Inc",
     location: "🌍 Remote",
-    experience: "5+ years",
+    experience: "7+ years",
     specialties: [
         "Full-Stack Development",
         "System Architecture Design", 
